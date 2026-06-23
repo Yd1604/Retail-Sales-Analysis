@@ -1,0 +1,21 @@
+Order_ID	Order_Date	Region	    Category	      Product	        Sales	    Profit	    Customer
+1001	    05/01/2025	London	    Technology	    Laptop	        1200	    300	        John
+1002	    08/01/2025	Manchester	Furniture	      Desk	          450	      90	        Sarah
+1003	    10/01/2025	London	    Office Supplies Printer Paper	  80	      20	        Emma
+1004	    12/01/2025	Birmingham  Technology	    Monitor	        350	      80	        David
+1005	    15/01/2025	London	    Furniture	      Chair	          220	      50	        Michael
+1006	    18/01/2025	Manchester	Technology	    Keyboard	      60	      15	        Sophie
+1007	    20/01/2025	Birmingham	Office Supplies	Notebook	      25	      5	          James
+1008	    22/01/2025	London	    Technology	    Mouse	          30	      8	          Olivia
+1009	    25/01/2025	Manchester	Furniture	      Bookshelf	      500	      120	        William
+1010	    28/01/2025	Birmingham	Technology	    Laptop	        1300	    320	        Charlotte
+1011	    02/02/2025	London	    Office Supplies	Stapler	        15	      3	          Amelia
+1012	    04/02/2025	Manchester	Technology	    Monitor	        400	      90	        George
+1013	    08/02/2025	London	    Furniture	      Desk	          480	      100	        Harry
+1014	    11/02/2025	Birmingham	Technology	    Headphones	    120	      30	        Grace
+1015	    15/02/2025	Manchester	Office Supplies	Printer Paper	  90	      22	        Noah
+1016	    18/02/2025	London	    Technology	    Laptop	        1250	    310	        Jack
+1017	    20/02/2025	Birmingham	Furniture	      Chair	          240	      55	        Lily
+1018	    24/02/2025	Manchester	Technology	    Mouse	          35	      9	          Thomas
+1019	    26/02/2025	London	    Office Supplies	Notebook	      30	      7	          Sophia
+1020	    28/02/2025	Birmingham	Technology	    Keyboard	      65	      16	        Lucas
