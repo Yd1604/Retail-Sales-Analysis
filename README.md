@@ -1,69 +1,48 @@
-# # Retail Sales Analysis Dashboard
+# Retail Sales Analysis Dashboard
 
 ## Project Overview
 
-This project analyses retail sales data using SQL and Google BigQuery to identify key business trends, product performance, and regional sales patterns. The analysis was conducted to demonstrate data analytics, KPI reporting, and dashboard development skills commonly used in oeprations.
+This project analyses retail sales data using Google BigQuery and Looker Studio to uncover business insights related to product performance, regional sales trends, and profitability.
 
-## Objectives
+The objective was to demonstrate data analysis, SQL querying, KPI reporting, and dashboard development skills commonly used in Data Analyst and Operations Analyst roles.
 
-- Analyse sales and profit performance across regions and product categories.
-- Identify top-performing products and revenue drivers.
-- Create KPI-focused dashboards to support business decision-making.
-- Demonstrate end-to-end analytics workflow from data ingestion to reporting.
-- Showcased Top most regions across United kingdom
+## Tools Used
 
-## Tools & Technologies
+* Google BigQuery
+* SQL
+* Looker Studio
+* GitHub
 
-- Google BigQuery (SQL)
-- Google Looker Studio
-- GitHub
-- CSV Data Source
+## Key Business Questions
 
-## Analysis Performed
-
-The following business questions were explored:
-
-- What is the total sales revenue and profit generated?
-- Which regions contribute the highest revenue?
-- Which product categories perform best?
-- What are the top-selling products?
-- How do sales trends vary over time?
-- What are the top most regions?
+* Which products generate the highest revenue?
+* Which regions perform best?
+* Which categories contribute the most sales?
+* What is the overall profitability of the business?
 
 ## Key Insights
 
-- Technology products generated the highest overall revenue.
-- Laptop sales were the strongest contributor to total sales.
-- Regional performance varied significantly, highlighting opportunities for targeted business strategies.
-- Sales and profit metrics provided clear visibility into operational performance.
-- Highlighted the Top most regions across United Kingdom.
+* Laptops were the highest revenue-generating product.
+* Technology products contributed the largest share of sales.
+* Furniture was the second strongest-performing category.
+* Revenue was concentrated among a small number of high-performing products.
 
-## Deliverables
+## Dashboard Features
 
-- Clean retail sales dataset
-- SQL analysis queries
-- KPI dashboard
-- Business insights and recommendations
+* Total Sales KPI
+* Total Profit KPI
+* Total Orders KPI
+* Revenue by Region
+* Revenue by Category
+* Top Products Analysis
+* Profit by Category
 
 ## Skills Demonstrated
 
-- SQL Querying
-- Data Aggregation & Analysis
-- KPI Reporting
-- Dashboard Development
-- Data Visualisation
-- Business Insights Generation
-- Data Storytelling
-
-## Dashboard Preview
-
-The dashboard provides an interactive view of:
-
-- Total Sales
-- Total Profit
-- Revenue by Region
-- Revenue by Category
-- Top Performing Products
-- Sales Trends
-- Top most regions
-
+* Data Analysis
+* SQL Querying
+* KPI Reporting
+* Dashboard Development
+* Business Intelligence
+* Data Visualisation
+* Data Storytelling
